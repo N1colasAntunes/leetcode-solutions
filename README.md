@@ -14,10 +14,10 @@ Each problem has its own folder with the solution and, when useful, notes about 
 
 Every solved problem is listed in the summary files:
 
-- [All problems](problems/solutions/summary.md)
-- [Easy](problems/solutions/easy.md)
-- [Medium](problems/solutions/medium.md)
-- [Hard](problems/solutions/hard.md)
+- [All problems](problems/summary.md)
+- [Easy](problems/easy.md)
+- [Medium](problems/medium.md)
+- [Hard](problems/hard.md)
 
 ## Repository Structure
 
@@ -26,13 +26,13 @@ leetcode-solutions/
 ├── assets/
 │   └── leetcode-solutions-banner.png
 ├── problems/
-│   └── solutions/
-│       ├── 0001-two-sum/
-│       │   ├── solution.py
-│       ├── easy.md
-│       ├── medium.md
-│       ├── hard.md
-│       └── summary.md
+│   ├── solutions/
+│   │   └── 0001-two-sum/
+│   │       └── solution.py
+│   ├── easy.md
+│   ├── medium.md
+│   ├── hard.md
+│   └── summary.md
 ├── .gitignore
 ├── LICENSE
 ├── README.md

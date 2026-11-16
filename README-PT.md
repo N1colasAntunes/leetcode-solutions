@@ -14,10 +14,10 @@ Cada problema tem a sua própria pasta com a solução e, quando for útil, anot
 
 Todos os problemas resolvidos estão listados nos arquivos de resumo:
 
-- [Todos os problemas](problems/solutions/summary.md)
-- [Easy](problems/solutions/easy.md)
-- [Medium](problems/solutions/medium.md)
-- [Hard](problems/solutions/hard.md)
+- [Todos os problemas](problems/summary.md)
+- [Easy](problems/easy.md)
+- [Medium](problems/medium.md)
+- [Hard](problems/hard.md)
 
 ## Estrutura do Repositório
 
@@ -26,13 +26,13 @@ leetcode-solutions/
 ├── assets/
 │   └── leetcode-solutions-banner.png
 ├── problems/
-│   └── solutions/
-│       ├── 0001-two-sum/
-│       │   ├── solution.py
-│       ├── easy.md
-│       ├── medium.md
-│       ├── hard.md
-│       └── summary.md
+│   ├── solutions/
+│   │   └── 0001-two-sum/
+│   │       └── solution.py
+│   ├── easy.md
+│   ├── medium.md
+│   ├── hard.md
+│   └── summary.md
 ├── .gitignore
 ├── LICENSE
 ├── README.md
